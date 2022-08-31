@@ -1,0 +1,51 @@
+fun main() {
+2
+    println("Hello, world!!!")
+3
+    
+4
+    
+5
+    var numero1 = 1
+6
+    var numero2 = 2
+7
+    var resultado1 = numero1 + numero2
+8
+    println(resultado1)
+9
+    
+10
+    var numero3 = 3
+11
+    var numero4 = 4
+12
+    var resultado2 = numero3 - numero4
+13
+    println(resultado2)
+14
+    
+15
+    var numero5 = 5
+16
+    var numero6 = 6
+17
+    var resultado3 = numero5 * numero6
+18
+    println(resultado3)
+19
+    
+20
+    var numero7 = 7
+21
+    var numero8 = 8
+22
+    var resultado4 = numero7 + numero8
+23
+    println(resultado4)
+24
+     
+25
+    
+26
+}
